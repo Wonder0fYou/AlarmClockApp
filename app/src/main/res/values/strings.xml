@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">AlarmClockApp</string>
+    <string name="ok" translatable="true">ОК</string>
+    <string name="cancel" translatable="true">Cancel</string>
+    <!-- AlarmClock -->
+    <string name="description" translation_description = "">Description</string>
+    <string name="text_description" tranlation_description ="">Add a description</string>
+    <string name="add_description_alarm" tranlation_description ="">Add description alarm</string>
+    <string name="default_melody" tranlation_description ="">The default melody</string>
+    <string name="melody" tranlation_description ="">Melody</string>
+    <string name="music_list" tranlation_description ="">Music list</string>
+    <string name="delete_after_use" tranlation_description ="">Delete after use</string>
+    <string name="vibrate_at_a_signal" tranlation_description ="">Vibrate at a signal</string>
+    <string name="replay" tranlation_description ="">Replay</string>
+    <string name="monday" tranlation_description ="">Monday</string>
+    <string name="tuesday" tranlation_description ="">Tuesday</string>
+    <string name="wednesday" tranlation_description ="">Wednesday</string>
+    <string name="thursday" tranlation_description ="">Thursday</string>
+    <string name="friday" tranlation_description ="">Friday</string>
+    <string name="saturday" tranlation_description ="">Saturday</string>
+    <string name="sunday" tranlation_description ="">Sunday</string>
+    <string name="once" tranlation_description ="">Once</string>
+    <string name="everyday" tranlation_description ="">Everyday</string>
+    <string name="new_alarm" tranlation_description ="">New alarm</string>
+    <string name="mon" tranlation_description ="">Mon</string>
+    <string name="tue" tranlation_description ="">Tue</string>
+    <string name="wed" tranlation_description ="">Wed</string>
+    <string name="thu" tranlation_description ="">Thu</string>
+    <string name="fri" tranlation_description ="">Fri</string>
+    <string name="sat" tranlation_description ="">Sat</string>
+    <string name="sun" tranlation_description ="">Sun</string>
+    <string name="alarms" tranlation_description ="">Alarms</string>
+    <string name="alarm" tranlation_description ="">Alarm</string>
+</resources>

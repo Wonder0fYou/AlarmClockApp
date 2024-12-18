@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <!-- Note -->
+    <string name="note">Заметка</string>
+    <string name="notes">Заметки</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="title">Заголовок</string>
+    <string name="content">Содержание</string>
+    <string name="content_of_the_note">Содержимое заметки</string>
+    <string name="confirm_the_action">Подтвердите действие</string>
+    <string name="want_to_delete_note">Вы действительно хотите удалить выбранную заметку?</string>
+    <string name="empty_here">Тут пусто, добавьте заметку</string>
+    <string name="note_cant_empty">Заметка не может быть пустой</string>
+    <string name="search">Поиск</string>
+    <string name="no_such_note_was_found">Такой заметки не найдено</string>
+    <!-- AlarmClock -->
+    <string name="text_description">Добавить описание</string>
+    <string name="add_description_alarm">Добавить описание будильника</string>
+    <string name="description">Описание</string>
+    <string name="default_melody">Мелодия по умолчанию</string>
+    <string name="melody">Мелодия</string>
+    <string name="music_list">Список музыки</string>
+    <string name="delete_after_use">Удалить после срабатывания</string>
+    <string name="vibrate_at_a_signal">Вибрировать при сигнале</string>
+    <string name="replay">Повтор</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="once">Однократно</string>
+    <string name="everyday">Ежедневно</string>
+    <string name="new_alarm">Новый будильник</string>
+    <string name="mon">Пн</string>
+    <string name="tue">Вт</string>
+    <string name="wed">Ср</string>
+    <string name="thu">Чт</string>
+    <string name="fri">Пт</string>
+    <string name="sat">Сб</string>
+    <string name="sun">Вс</string>
+    <string name="alarms">Будильники</string>
+    <string name="alarm">Будильник</string>
+    <!-- To do -->
+</resources>
